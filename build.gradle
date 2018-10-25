@@ -24,7 +24,7 @@ allprojects {
         google()
         jcenter()
         maven { url 'https://jitpack.io'}
-        maven { url 'http://localhost:8081/artifactory/gradle-dev-local'}
+        maven { url 'https://e3a9be6e.ngrok.io/artifactory/gradle-dev-local'}
 
     }
 }
